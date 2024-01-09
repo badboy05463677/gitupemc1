@@ -1,0 +1,83 @@
+#leavebody{
+  background-color: rgb(242, 244, 247);
+  padding: 80px;
+
+}
+
+#textareainput{
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+ padding-inline: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: purple;
+  background-color: whitesmoke;
+  font-style: italic;
+  font-size: larger;
+  font-weight: bold;
+  outline: none;
+  border: 2px solid red;
+  color: rgb(228, 15, 15);
+}
+ .headleave{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: purple;
+  font-weight: bolds;
+  font-size: 40px;
+  border-bottom: 3px solid rgba(255, 13, 158, 0.857);
+  overflow: hidden;
+  background-color: rgba(213, 205, 222, 0.445);
+
+}
+
+.headname{
+  color: blue;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-bottom: 10px; 
+  background-color: whitesmoke;
+
+}
+
+.play3{
+padding: 10px 40px 40px 40px;
+ }
+.play4{
+   width: 40%;
+
+  border-radius: 10px;
+  margin-left: 320px;
+  border: 3px solid rgba(255, 13, 158, 0.857);
+
+  overflow: hidden;
+  background-color: whitesmoke;
+}
+.play6{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: orangered;
+  color: white;
+  border: 3px solid orangered;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: larger;
+  width: 140px;
+  height: 39px;
+  margin-left: 140px;
+  margin-top: 10px;
+
+}
+.play6:hover{
+  border:2px solid orange;
+  background-color: aliceblue;
+  color: orange;
+}
+.play7{
+  font-family:'Times New Roman', Times, serif;
+  font-size: larger;
+  font-weight: 900;
+  color: rgb(228, 15, 15);
+  width: 100%;
+  outline: none;
+  border: 2px solid red;
+}

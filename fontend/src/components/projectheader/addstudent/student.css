@@ -1,0 +1,93 @@
+#studntbody{
+  padding:40px;
+  background: linear-gradient(to left,rgba(168, 40, 121, 0.607),skyblue);
+  
+}
+
+.studentflex{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  
+
+}
+.studentpage{
+  width: 70%;
+  border:2px solid gray;
+  margin-left: 200px;
+  padding: 20px 40px 20px 40px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(236, 233, 234, 0.451);
+  color: orangered;
+
+ 
+    
+}
+.headflex,.headflex1{
+  font-family: 'Times New Roman', Times, serif;
+  
+ 
+}
+
+.inputnames{
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: x-large;
+  font-family:'Times New Roman', Times, serif;
+
+ color: purple;
+ 
+  margin-top: 5px;
+  outline: none;
+  padding: 5px;
+ 
+  
+  
+}
+
+.studentdiv{
+  width: 45%;
+  margin: 2px;
+}
+ 
+.studentbutton{
+  
+  width: 350px;
+  height: 40px;
+  margin-left: 230px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  border-radius: 100px;
+  color: white;
+  border: none;
+  background-color: blue;
+  
+}
+.studentbutton:hover{
+  background-color: aliceblue;
+  color: rgb(98, 18, 217);
+  border: 1px solid rgb(108, 30, 218);
+}
+.errorbutton{
+  margin-left:260px ;
+ 
+  color:red;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  font-size: x-large;
+  
+  
+}
+.studnthead{
+  margin-top: 0%;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+color: greenyellow;
+  border-bottom: 4px solid whitesmoke;
+  width: 225px;
+  text-shadow: 1px 0 0 black;
+  margin-left: 295px;
+} 

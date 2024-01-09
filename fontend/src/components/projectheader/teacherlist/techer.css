@@ -1,0 +1,108 @@
+#teacherhead{
+  background-color: whitesmoke;
+  padding: 40px;
+
+}
+
+.flexitem-teacher{
+  display: flex;
+ justify-content: space-evenly;
+background-color: transparent;
+}
+.teacher-head{
+  width: 70%;
+  border:2px solid rgba(0, 0, 0, 0.609);
+  margin-left: 200px;
+  padding: 10px 50px 50px 10px;
+ background-color: #18d8d5;
+ border-radius: 4px ;
+ 
+ 
+}
+
+.flexitem-teacher .headname{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: transparent;
+  color: rgba(0, 0, 0, 0.709);
+  font-size: 23px;
+  
+ 
+}
+ .inputname{
+  width: 400px;
+  height: 43px;
+  border-radius: 5px;
+  font-size: x-large;
+  font-family:'Times New Roman', Times, serif;
+ text-transform: capitalize;
+ text-align: start ;
+ color:rgba(0, 0, 0, 0.744);
+ border: 2px solid  rgba(0, 0, 0, 0.677);
+
+  
+
+  outline: none;
+ 
+}
+.teacherlist{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+
+ text-transform: uppercase;
+text-decoration: underline whitesmoke;
+  margin-left: 295px;
+  color: rgba(0, 0, 0, 0.695);
+}
+
+.submitbtn{
+  
+  width: 350px;
+  height: 40px;
+  margin-left: 230px;
+ 
+  font-size: x-large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+  border-radius: 60px;
+  color: white;
+  border: none;
+  background-color: red;
+  
+}
+
+.errorname{
+  margin-left:260px ;
+  margin-top: 10px;
+  color:red;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  
+}
+
+#backbtn{
+   
+  padding: 3px ;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 48px;
+  border-radius: 3px;
+  text-align: center;
+ 
+  border-radius: 5px;
+  width: 170px;
+ 
+  border: 1px solid #343a40;
+  color: #fff;
+  background-color: orangered;
+  position: fixed;
+  bottom: 10px;
+  margin-left: 940px;
+}
+#backbtn:hover{
+  border: 1px solid white;
+  background: #343a40;
+  outline: #18d8d5;
+
+} 

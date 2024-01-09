@@ -1,0 +1,61 @@
+#atanacebody{
+    background-color:whitesmoke;
+   
+}
+.attendance-table {
+    width: 50%;
+    margin-left: 270px;
+
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .attendance-table th, .attendance-table td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+  }
+  
+  .attendance-table th {
+    background-color: #f2f2f2;
+    border: 3px solid purple;
+    color: green;
+    text-align: center;
+    
+  }
+  .attendance-table td{
+    border: 3px solid purple;
+    color: red;
+    text-align: center;
+
+  }
+  #checkboxinput{
+    padding: 3px;
+    color: green;
+    border: blue;
+  }
+  
+ #stdstnbtn {
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left:45%;
+  }
+  .stdhead{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(47, 47, 53);
+  }
+  .stdhead1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+
+    text-decoration: underline green;
+
+  }

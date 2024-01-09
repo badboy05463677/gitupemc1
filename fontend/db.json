@@ -1,0 +1,239 @@
+{
+  "Students": [
+    {
+      "name": "prathap",
+      "age": "20",
+      "std": "10th",
+      "dob": "2023-12-02",
+      "number": "66464466161",
+      "bloodgroup": "b",
+      "gender": "male",
+      "adress": "ndkn  jkknoiniknw",
+      "fname": "kjioijd902",
+      "mname": "jknsn",
+      "Occupation": "ndk",
+      "id": 1
+    }
+  ],
+  "teacher": [
+    {
+      "name": "sarnya",
+      "age": "20",
+      "dob": "2007-07-07",
+      "mail": "sarnay@gmail.comere",
+      "Qualification": "bsc chemistry234",
+      "gender": "female",
+      "adrss": " sarnya dhuramapuri",
+      "numper": "66826786268",
+      "id": 1
+    },
+    {
+      "name": "sarnya",
+      "age": "20",
+      "id": 2
+    },
+    {
+      "name": "sarnya",
+      "age": "20",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "sarnya",
+      "age": "20",
+      "id": 5
+    },
+    {
+      "name": "ptt",
+      "age": "30",
+      "id": 6
+    }
+  ],
+  "Timetable": [
+    {
+      "name": "prathap",
+      "Periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "kumaran",
+      "Periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "sarnya",
+      "Periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+
+#updatebody{
+  background: linear-gradient(to left,rgba(225, 128, 18, 0.607),skyblue);
+  padding:80px 27px 40px 27px;
+}
+.update-div{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  
+
+}
+
+.upadteflex{
+  width: 70%;
+ 
+  border:2px solid gray;
+  margin-left: 200px;
+ border-radius: 20px;
+ padding: 10px 50px 5px 50px;
+ background: linear-gradient(to left,rgba(18, 225, 205, 0.607),skyblue);
+
+}
+ 
+.updateflex,.updateflex1{
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.salu2{
+  font-family: 'Times New Roman', Times, serif;
+ 
+ 
+ 
+}
+
+.inputupdate{
+  margin: 4px;
+  width: 400px;
+  height: 45px;
+  border-radius: 5px;
+  font-size: x-large;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: rgb(238, 65, 7);
+  margin-top: 5px;
+  padding: 3px;
+  text-align: justify;
+  
+}
+.salu1{
+  width: 45%;
+  margin-top: 20px;
+}
+
+
+
+.submitbtns{
+  
+  width: 350px;
+  height: 40px;
+  margin-left: 230px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  background-color: rgb(255, 42, 0);
+  
+}
+
+.submitbtns:hover{
+  background-color: aliceblue;
+  color: rgb(98, 18, 217);
+  border: 1px solid rgb(108, 30, 218);
+}
+
+.updateteacher{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+color: brown;
+  border-bottom: 4px solid gray;
+  width: 250px;
+  text-shadow: 1px 0 0 black;
+  margin-left: 295px;
+} 

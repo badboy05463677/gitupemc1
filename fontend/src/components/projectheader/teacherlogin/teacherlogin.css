@@ -1,0 +1,100 @@
+#teacherbody{
+   
+    background: linear-gradient(to left,rgba(127, 142, 196, 0.607),rgb(23, 6, 109));
+padding: 52.5px;
+}
+#teacher-image{
+    display: flex;
+     margin-left: 105px; 
+     padding-top: 105px;
+     background-color: aliceblue;
+     padding: 50px;
+     margin-right: 100px;
+    background: linear-gradient(to left,rgba(204, 212, 197, 0.855),rgb(209, 121, 80));
+    border-radius: 50px; 
+}
+#teacher-image img{
+    width: 500px;
+    height: 450px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.teacherlogin{
+  margin-left: 20px;
+   align-items: center;
+   margin-top: 30px;
+    
+}
+
+.teacherlogin h3{  
+   color: rgb(177, 220, 20);
+   font-size: 30px;
+   word-spacing: 3px;
+   text-shadow: 1px 1px 1px whitesmoke;
+      text-align: center;
+    font-family: cursive;
+}
+
+.teacherlogin h2{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 50px;
+   text-transform:uppercase ;
+   font-weight: bold;
+  color: whitesmoke;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-transform: capitalize;
+}
+ 
+.teacherlogin h4{
+ margin-bottom: 20px;
+ margin-top: 20px;
+ padding-top: 10px;
+ align-items: center;
+ color: rgba(227, 221, 221, 0.893);
+ font-style: 30px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+
+.teacherlogin input{
+   border: 2px solid rgba(245, 245, 245, 0.654);
+    width: 190px;
+    background-color: transparent;
+    outline: none;  
+    padding: 3px;  
+    border-radius: 4px;
+    color: whitesmoke;
+}
+
+.teacherlogin input:hover{
+border-color:rgba(10, 10, 176, 0.498);   
+   
+}
+
+
+.teacherlogin button{
+   
+    padding: 3px ;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 48px;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 160px;
+    background: #343a40;
+    border: 1px solid #343a40;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.login button:hover{
+    background: orangered;
+    border: 1px solid orangered;
+
+} 
